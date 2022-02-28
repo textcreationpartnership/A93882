@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pantalogia. The saints abundance opened. / By Thomas Sterry preacher of the gospel. Published at the earnest intreaty of some friends. Imprimatur John Downame.</title>
+            <author>Sterry, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93882</idno>
+            <idno type="STC">Wing S5488</idno>
+            <idno type="STC">Thomason E355_28</idno>
+            <idno type="STC">ESTC R201127</idno>
+            <idno type="EEBO-CITATION">99861681</idno>
+            <idno type="PROQUEST">99861681</idno>
+            <idno type="VID">159908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pantalogia. The saints abundance opened. / By Thomas Sterry preacher of the gospel. Published at the earnest intreaty of some friends. Imprimatur John Downame.</title>
+                  <author>Sterry, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F: Neile for William Wenborn, at the signe of the Rose at the Bridge-foot.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of the title is printed in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans 8, 32 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159908:1" rendition="simple:additions"/>
+            <p>ΠΑΝΤΑΛΟΓΙΑ. THE SAINTS ABUNDANCE OPENED.</p>
+            <p>BY THOMAS STERRY Preacher of the GOSPEL.</p>
+            <p>Publiſhed at the earneſt intreaty of ſome Friends.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur</hi> JOHN DOWNAME.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F: Neile</hi> for <hi>William Wenborn,</hi> at the Signe of the Roſe at the Bridge-foot. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159908:2"/>
+            <pb facs="tcp:159908:2"/>
+            <head>TO THE TRULY VERTUOUS MY HIGHLY HONOURED FRIEND, The Lady <hi>H.</hi> Wife to the RIGHT WORSHIPLVLL, Sir <hi>H. H.</hi> KNIGHT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Scriptures frequently tell of a wealth, a plenty, a fulneſſe, which be<g ref="char:EOLhyphen"/>leevers onely have right to, and injoy. The beſt endeavours of your humble Servant hath been (both in the Pulpit, and the Preſſe) to ſet this before you: that in all Your relations, in all Your injoyments on earth Your Soul might be carried forth after this abun<g ref="char:EOLhyphen"/>dance which in the Scriptures language is not one<g ref="char:EOLhyphen"/>ly true, durable, riches; but honours too.</p>
+            <p>Ever Honoured, pardon me if I humbly move to be heard in this: <hi>viz.</hi> remember, O! remember in
+<pb facs="tcp:159908:3"/> all Your uſes of this worlds plenty principally to uſe this abundance: for by this alone can You be made for ever rich, for ever Honourable.</p>
+            <p>And I bow my knees to the God and Father of our Lord Jeſus, that in all Your uſes of this abun<g ref="char:EOLhyphen"/>dance, You may uſe it as Your own. That <hi>Solomons</hi> Proverb may for ever be Your <hi>impreſſo, with me are riches and honours.</hi> Thus he daily prays, who is,</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Ladiſhips loweſt Servant in Chriſt Jeſus. <hi>Thomas Sterry.</hi>
+               </signed>
+               <dateline>
+                  <date>Novemb. 23. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159908:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe in things of publick view, it is a cuſtome, give me leave alſo, to make (my) particular addreſſes. Be it known, I have done (in the publiſhing of this) no more than what many, daily, powerfull, perſwa<g ref="char:EOLhyphen"/>ſions have drawn me to. Loath (indeed) I was, but being overcome, my Motives turn'd to a Command, and how great an inſufficiencie ſoever I found in my ſelf for it, I muſt do it. Now as I am able, I have done it: not with an intent (if in me there were that Art) to work upon you with the inticing words of mans wiſdom; but humbly to declare as a weak dim-ſighted man (as I have received) the things of an immortall God, yea, the deep things on which hangs the eternall comfort of my own Soul. Candidly (I beſeech you) then imbrace what ſo I preſent, remembring alwayes that your faith ſhould not ſtand in the wiſdom of men, but in the power of
+<pb facs="tcp:159908:4"/> God. If any man think of, or expect from, theſe rurall lines otherwiſe; on ſuch I have ſpent my paine, my time, for nought; with them my labours hath been in vain, yet ſurely my judgement is with the Lord, and my Labours with my God.</p>
+            <closer>
+               <signed>T. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159908:4"/>
+            <head>ΠΑΝΤΑΛΟΓΙΑ. THE SAINTS ABUNDANCE OPENED.</head>
+            <epigraph>
+               <q>
+                  <bibl>ROM. 8.32.</bibl>
+                  <p>—How ſhall be not with him alſo freely give us all things?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Will briefly acquaint you, with one part of the Spirits aime in this Text, from the Con<g ref="char:EOLhyphen"/>text. It is (from the confideration of a firm conſolation) to cheer, to bear-up the ſpirits of ſuch who are, already under, or, apt to droop at, the ſad predictions of a holy life. Which are, <hi>If any man will come after me,—let him take up his croſſe,</hi> &amp;c. Luk. 9.23. Yea, <hi>and all that will live godly ſhall ſuffer perſecu<g ref="char:EOLhyphen"/>tion.</hi> 2 Tim. 3.12. In the 17. ver. of this 8th. Chapter theſe are call'd — <hi>ſuffering with him</hi>-. Now, for a revivall of their drooping hearts he preſents this conſolation: <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Sufferings are inferiour to glory.</hi> A Saints Croſſe is belowe his Crown. If the earlieſt glimmerings of our Lord Jeſus upon a Soul, ſhroud ſo much joy, ſo much ſtrength of ſpi<g ref="char:EOLhyphen"/>rit within their own beams: as overpower'th the croſſe, and ſmileth at the ſhame; what will his meridian rays of glory when they ſhall be reveal'd?</p>
+            <p>With the leaſt of theſe the whole body of a Saints ſuf<g ref="char:EOLhyphen"/>ferings is not worth the compariſon. Through infirmitie, ſome have, others may oppoſe it to glory; but by lifting up your eye to the 18. ver: view its worthleſſe oppoſition.
+<pb n="2" facs="tcp:159908:5"/> —<hi>The ſufferings of this preſent time are not worthy to be compared with the glory that ſhall be reveal'd in us.</hi> The inward ſence of this difference <hi>(Preſent ſufferings, future glory,)</hi> together with the diſproportion (of <hi>Theſe</hi> to <hi>That</hi>) which makes <hi>them not worthy to be compar'd</hi>) I can conveigh into none: this is all I can ſay to every Soul, that in reſpect of worth, the baſeſt metall with gold may be as well compar'd, as <hi>ſufferings with glory.</hi>
+            </p>
+            <p>To this he adds: <hi>Sufferings are no perpetuall impediment to glory.</hi> A Saints croſſe hinders not his crown any more than a dark night the riſing of the Sun the next Morn. Perſecu<g ref="char:EOLhyphen"/>tion by men may, fleſhly warrings againſt the mind ſhall, troubles of all ſorts for the night of this life, indure; but—<hi>glory ſhall be reveal'd.</hi> v. 18 <hi>ult. part.</hi>
+            </p>
+            <p>This appears by foure things. By the
+<list>
+                  <item>
+                     <hi>Creatures expectation.</hi>
+                  </item>
+                  <item>
+                     <hi>Saints qualification.</hi>
+                  </item>
+                  <item>
+                     <hi>Spirits work.</hi>
+                  </item>
+                  <item>
+                     <hi>Fathers love.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt is <hi>the Creatures expectation.</hi> There is a hidden ſtrong defire of glory in every creature. It appears by this their earneſt expectation. There is alſo a full diſcovery yet to be made of this glory. It is evident by their <hi>Waiting for its manifeſtation.</hi> Of both theſe you read in the 19. ver:—<hi>The earneſt expectation of the creature waits for the manifestation of the ſons of God.</hi> This manifeſtation, &amp;c. is ſpoken in refe<g ref="char:EOLhyphen"/>rence to glory, and in the 21. ver: is call'd <hi>the glorious liberty of the ſons of God.</hi>
+            </p>
+            <p>With one force theſe verſes with the 22.23. prove by all our fellow creatures (notwithſtanding great oppoſition) <hi>a future glory of the Saints.</hi>
+            </p>
+            <pb n="3" facs="tcp:159908:5"/>
+            <p>The ſecond is, <hi>the Saints qualification.</hi> This the Spirit notes in two expreſſions: <hi>Hope, Patience.</hi> Of their <hi>Hope</hi> you read in the 24. ver.—<hi>We are ſaved by hope</hi>—in ver. 25. for <hi>that which we ſee not,</hi>—of their Patience in the ſame verſ: — <hi>then</hi> (or therefore) <hi>do we with patience wait for it.</hi> To me theſe expreſſions ſeem to concur in this fignification; <hi>The certain manifeſtation of inviſible glory to the Saints.</hi> But with this diſtinction.</p>
+            <p>Firſt, <hi>as the ground of their hope.</hi> From future certainty ſprings hope infallible. This hope is the true, preſent union of the Soul with that certainty; the true reall appearance of that to the ſoul. Glory inviſible (without all queſtion) ſhall be reveal'd. This leads the ſoul to hope for its diſco<g ref="char:EOLhyphen"/>very. Which act of the ſoul is its ſweet cloſe, its ſecret con<g ref="char:EOLhyphen"/>junction with that glory inviſible: that glorie's true, pre<g ref="char:EOLhyphen"/>ſent appearance to it. Good <hi>Abraham</hi> thus ſaw (though then it was a far off) the brightneſſe of the Fathers glory. Thas Saints now ſee (that which ſhall be reveal'd) the ex<g ref="char:EOLhyphen"/>cellent glory of that glory. This is the appearance, the manifeſtation of glory to the Saints in this life. This is their ſalvation by hope.</p>
+            <p>Secondly, <hi>as the Crown of their patience.</hi> Theſe words—<hi>Then do we with patience wait for it;</hi> implies as much. Saints are men ſingular in the world; they diſcover more by hope than by ſence: and recover more by patience then by pains. That ſhall be finiſh'd, gloriouſly crown'd, with the full accompliſhment of its expectation. The Saints there<g ref="char:EOLhyphen"/>fore wait, otherwiſe, they wait in vain. But for what? for a riſing Sun, a ſuperexcellent glory to be reveal'd in them, in their ſouls after this life, in their bodies after this world. This is the higheſt, fulleſt, greateſt manifeſtation of that glory which ſhall in that day ſweetly, fully, certainly ſa<g ref="char:EOLhyphen"/>tisfie
+<pb n="4" facs="tcp:159908:6"/> all patient deſires that have been exerciſed in the ex<g ref="char:EOLhyphen"/>pectation of it. This is the glory the Saints wait for.</p>
+            <p>The third is, <hi>the Spirits work.</hi> Of this, what more can be ſaid? what more can be thought, than is ſumm'd-up in the 26. verſe? <hi>Likewiſe the Spirit helpeth our infirmities,</hi> &amp;c. This hath two parts.
+<list>
+                  <item>A <hi>Perſon.</hi> and </item>
+                  <item>
+                     <hi>His work.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, a <hi>Perſon. The Spirit of glory.</hi> It appears, he is ingaged in a Saints ſufferings: by thoſe conjunctive particles: <hi>Like<g ref="char:EOLhyphen"/>wiſe: alſo.</hi> But how? Not ſimply, but in reference to his work.</p>
+            <p>Secondly, <hi>His work. To help our infirmities.</hi> 
+               <note n="*" place="margin">Piſcat.</note> Divines ſay, <hi>to help our infirmities:</hi> is <hi>Auxiliari nobis infirmis, quum prae infir<g ref="char:EOLhyphen"/>mitate non ſufficimus oneri crucis portando. The Spirit ſtrengthen<g ref="char:EOLhyphen"/>ing weak men to hear the burthen of the Croſſe. The Spirit bearing</hi> (as it were) <hi>the burthen that man faint not.</hi> So that ſufferings may, load a Saint: not hinder his glory.</p>
+            <p>The fourth is, <hi>the Fathers love.</hi> A royall attribute, which hath its floods in perſecutions hotteſt climate.</p>
+            <p>It is ſeen
+<list>
+                  <item>
+                     <hi>In the Fathers heart.</hi>
+                  </item>
+                  <item>
+                     <hi>By the Fathers hand.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, <hi>in his heart.</hi> Have you ever obſerv'd in the relation, or action, of private, of publick differences; how the au<g ref="char:EOLhyphen"/>ditors, the ſpectators, have inclin'd, or ſided, (as affection led them) to the one party, or with the other? So ſides (yea far more) this perſon of glory with all his Saints. He ſees, he hears, their ſorrows, their cries, his heart earns, and <hi>he takes their parts.</hi> ver. 31. <hi>If</hi> (or <note n="*" place="margin">Ponitur au<g ref="char:EOLhyphen"/>tem ſi pro quia. &amp;c. Piſc.—</note> becauſe) <hi>God be with us (Beza</hi> renders it <hi>on our ſide</hi>) <hi>who can be againſt us?</hi> The glory pre<g ref="char:EOLhyphen"/>par'd
+<pb n="5" facs="tcp:159908:6"/> (therefore) ſhall in them be reveal'd. <hi>All ſufferings</hi> cannot hinder; (in all) the Father of glory ſides with them, is <hi>for</hi> them, is <hi>with</hi> them.</p>
+            <p>Secondly, <hi>By his hand.</hi> A loving heart is open handed. Can any thing be thought too much, too dear, to expreſſe a heart fully indeared to one? The Scriptures tell us; This Perſon ſo intirely loved—that he <hi>gave his Son, his onely be<g ref="char:EOLhyphen"/>gotten.</hi> Joh. 3.16. <hi>He gave</hi> him as his, rich, rare, love-token to the Saints.</p>
+            <p>
+               <hi>A gift</hi> implies propriety, and poſſeſſion; and this the greateſt, the ſweeteſt.</p>
+            <p>What hindrance then can ſufferings be to Saints? Chriſt the brightneſſe of the Fathers glory, and all things are theirs: theirs as a <hi>Right,</hi> a right <hi>Peculiar</hi> to them, a right <hi>injoyed</hi> by them, after the ſweeteſt the fulleſt way.—<hi>How ſhall he not with him alſo freely give us all things?</hi> v. 32.</p>
+            <p>This Text by ſome is read; <hi>How doth he not,</hi> &amp;c? referring (as it were) to the particular moment of each Soul's con<g ref="char:EOLhyphen"/>verſion, wherein the Father, in the act of giving his Son, doth inſtate them in the inheritance of all things in him.</p>
+            <p>By others, <hi>How Hath he not,</hi> &amp;c? (as it were) pointing at the Saints preſent injoyment of that inheritance. This ſeems moſt harmonious in the literall ſound: the word, <hi>Hath,</hi> being expreſſed (in every Tranſlation either ſilently or viſibly) twiſe before.</p>
+            <p>But the Greek word (<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) moſt properly ſignifies: <hi>How ſhall he not:</hi> &amp;c. This thwarts not the other two, but (according to the manner of expreſſion, a queſtion carry<g ref="char:EOLhyphen"/>ing it's anſwer in it: which is, <hi>He ſhall with him freely give us all things</hi>) renders the text as a gracious promiſe of conti<g ref="char:EOLhyphen"/>nuing the Fathers bounty to the Saints, begun in them at their houre of converſion.</p>
+            <pb n="6" facs="tcp:159908:7"/>
+            <p>Now with out any longer ſtay; the parts of this Teat are two. <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>A free giver.</hi>
+                  </item>
+                  <item>
+                     <hi>His great gift.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, <hi>a free giver.—How ſhall He not freely give?</hi> Who this is appears by the demonſtrative particle, <hi>He.</hi> A perſon eaſi<g ref="char:EOLhyphen"/>ly known by his paternall relation. 'Tis <hi>He</hi> (in the begin<g ref="char:EOLhyphen"/>ning of the verſe) <hi>Who ſpared not bis Son,</hi> &amp;c. and freely to beſtow this gift is <hi>His</hi> proper act.</p>
+            <p>Secondly, <hi>His great gift.</hi> But <hi>who?</hi> or what is this great gift? It is mark'd with a double character: <hi>A Perſon, All things.—How ſhall he not WITH HIM</hi> give us <hi>ALL THINGS?</hi>
+            </p>
+            <p>Firſt, a <hi>Perſon,</hi> a <hi>Divine,</hi> a <hi>Diſtinct</hi> perſon in the Trinity, <hi>Jeſus Chriſt.</hi> He is ſpoken of, as of a <hi>Perſon; Him:</hi> as of a <hi>Divine</hi> perſon; <hi>Him;</hi> in reference to <hi>Son:</hi> as of a <hi>Distirct</hi> per<g ref="char:EOLhyphen"/>ſon in the Trinity; <hi>Him;</hi> as <hi>Another</hi> beſides this <hi>He;</hi> the Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Secondly, <hi>All things.</hi> Some ſay ſuch onely are theſe <hi>All things</hi> which are <hi>neceſſary to ſalvation.</hi> Others, <hi>Theſe;</hi> and <hi>Created things</hi> too. It is true, <hi>All things, whether Paul, or Apol<g ref="char:EOLhyphen"/>lo, or Cophas, or the world, or life, or death, things preſent, or to come, are the Saints.</hi> 1 <hi>Cor.</hi> 3.21, 22. But I will not here anti<g ref="char:EOLhyphen"/>cipate my purpoſe. My Doctrine from the text is this.</p>
+            <p>
+               <note place="margin" type="runSum">Doctr.</note> 
+               <hi>Such as have receiv'd Jeſus Chriſt (Saints by calling) injoy by his Fathers liber all hand, all things with him.</hi>
+            </p>
+            <p>By comparing two places I will at once prove, and ex<g ref="char:EOLhyphen"/>plain it.</p>
+            <p>
+               <hi>Rom.</hi> 8.32. wherein <hi>Paul</hi> ſpeaks as a Saint to Saints; when he ſaith,—<hi>Shall be not give us all things?</hi> with 1 <hi>Corinth.</hi> 2.12. we—<hi>know the things that are freely given us of God.</hi> Theſe places have this <hi>ſence,</hi> with this <hi>Dif<g ref="char:EOLhyphen"/>ference.
+<pb n="7" facs="tcp:159908:7"/> The Father freely upon his Saints beſtows all things. This all things he beſtows with it's diſtinction.</hi> By <hi>things</hi> therefore he explains <hi>All things;</hi> both which in ſence are <hi>terms equi<g ref="char:EOLhyphen"/>valent.</hi> A Saints <hi>All things</hi> then are but all <hi>ſome things,</hi> but <hi>ſuch</hi> as in themſelves are truly <hi>All things.</hi> Of <hi>things</hi> the Scriptures thus diſtinguiſh, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Things</hi> whoſe depths are fathom'd onely by the Spirit; <hi>of God,</hi> things, <hi>Divine. Things,</hi> apparent to the ſencitive, to the ra<g ref="char:EOLhyphen"/>tionall ſoul; things <hi>Huntaine.</hi> 1 <hi>Cor.</hi> 2.11. <hi>For what knows the THINGS OF A MAN ſave the ſpirit of man which it in him:</hi> even ſo <hi>the THINGS OF GOD knows no man, but the Spirit of God.</hi>
+            </p>
+            <p>If the latter <hi>(Things humain)</hi> be here meant, then a Saints <hi>All things</hi> are thoſe which St. <hi>Paul</hi> cals <hi>the world, this life, things viſible,</hi> and <hi>temporall:</hi> 1 <hi>Cor.</hi> 3.22. <hi>David, the portion of the wicked:</hi> Pſal. 17.14. And <hi>Solemon, Things equally common to good and bad.</hi> Eccl. 9.2.</p>
+            <p>In ſuch <hi>gifts,</hi> in ſuch <hi>injoyments,</hi> what comfort peculiar, to beleevers? what difference eſſentiall, can there be, be<g ref="char:EOLhyphen"/>tween the righteous, and ungodly?</p>
+            <p>Their <hi>All things</hi> therefore muſt be <hi>Peculiar, Diniſive, Con<g ref="char:EOLhyphen"/>ſtitutive. Things</hi> onely theirs, diſtinguiſhing them, conſtitu<g ref="char:EOLhyphen"/>ting them. <hi>Such</hi> as the naturall man hath no part in. <hi>Such</hi> as differenceth them from him. <hi>Such</hi> as makes them to be what they are: <hi>men effectually call'd.</hi> Such as theſe are onely the <hi>deep things of God.</hi> Theſe are the Fathers <hi>gift,</hi> and theſe from St. <hi>Paul's</hi> mouth are call'd <hi>All things.</hi> 1 <hi>Cor.</hi> 2.10. <hi>But God hath revealed</hi> (which is his hidden free way of giving) <hi>them unto us by his Spirit: for the Spirit ſearcheth All things, yea, the Deep things of God.</hi>
+            </p>
+            <p>Take now (that your ſouls may ſuck at the breaſts of Conſolation) two queſtions of worth from this Doctrine.</p>
+            <pb n="8" facs="tcp:159908:8"/>
+            <p>
+               <note place="margin" type="runSum">Queſt. 1.</note> 
+               <hi>Wherein doth the AB<g ref="char:V">Ʋ</g>NDANCE of a beleeving ſoul</hi> (which is theſe, <hi>Deep things of God, ALL THINGS given) fully con<g ref="char:EOLhyphen"/>ſist? or what more particularly theſe deep things, theſe all things?</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">Anſw.</note> 
+               <hi>The holy Trinity one God</hi> (bleſſed for ever) <hi>beſtowing himſelf upon a creature in thoſe ſweet relations mentioned in his Word, is theſe deep, theſe All things: in whoſe inward injoyment</hi> (after this way which is a myſterie hid to the world) <hi>conſiſts (as theirs) the Saints abundance.</hi>
+            </p>
+            <p>From this Anſwer take three notes.</p>
+            <p>The firſt is: the Father is <hi>All things,</hi> the Son is <hi>All things,</hi> the holy Ghoſt is <hi>All things:</hi> yet, not three divided, but <hi>one All things:</hi> ſo that <hi>the beleevers abundance is to be conceived not onely to lie, in the unity of the Godhead; but alſo, in the diſtinction of perſons.</hi>
+            </p>
+            <p>The ſecond is; the relations of the Father, of the Son, of the holy Ghoſt downward to the creature, are equally common to each of them as one God; but diſtinctly pecu<g ref="char:EOLhyphen"/>liar as three perſons: The <hi>Father beſtowing,</hi> therefore, <hi>of theſe All things upon the creature is not onely the free manifeſtation of community in relation in the unity of the Godhead; but alſo, of pe<g ref="char:EOLhyphen"/>culiarity, in the trinity of perſons.</hi>
+            </p>
+            <p>The third is, a beleevers propriety in <hi>this gift</hi> (ſo as he can ſencibly ſay, <hi>My abundance</hi>) <hi>is by an inward relative ſence of this <g ref="char:V">Ʋ</g>nity in Trinity.</hi>
+            </p>
+            <p>Thus <hi>God</hi> is <hi>All things,</hi> thus he is <hi>Given,</hi> thus as <hi>the abun<g ref="char:EOLhyphen"/>dance</hi> to the Saints.</p>
+            <p>Here's wine and marrow, a miſterious peice of heaven diſplaid in each perſon in the Godhead, which, not many wiſe, not many mighty can perceive; but, is freely reveal'd to tender babes.</p>
+            <p>Firſt, God <hi>the Father</hi> is <hi>All things, abundance.</hi> Epheſ. 3.19.—<hi>That ye might be filled with all the fulneſſe of God.</hi> Theſe
+<pb n="9" facs="tcp:159908:8"/> words, for their conexion, their explication, refer you to verſ. 14. <hi>viz. For this cauſe I how my knees to the God and Father of our Lord Jeſus:</hi> that is, he prayeth to God the Father: and for what? (beſides other things) for this (as one) that the beleeving Epheſians might be fill'd with his own fulneſſe: which may ſound thus, <hi>That they might have abundantly of him, even all things that might make them perfect before him.</hi>
+            </p>
+            <p>This perſon (therfore) freely beſtows himſelf upon ſuch as he beſtows his Son; that together with him, they might have <hi>this abundance, this all things.</hi>
+            </p>
+            <p>
+               <hi>A mans gift</hi> (ſaith <hi>Solomon</hi>) <hi>maketh room for him.—Prov.</hi> 18.16. Jeſus Chriſt is the gift of this perſon: and where<g ref="char:EOLhyphen"/>ſoever he is, there is his Father too. He is there (by deed of gift) after the ſame way as Jeſus Chriſt is. So that a belee<g ref="char:EOLhyphen"/>ver may lay claim to him, yea, as truly to him as to Jeſus Chriſt. He may challenge him, for his own, and all that he hath as freely, truly, really, as any thing that he injoyes in the world. For the right that he hath in himſelf is not more firm, proper, unqueſtionable, than that which a be<g ref="char:EOLhyphen"/>leever hath in him: it being a way of undeniable propiety (which is <hi>the deed of gift</hi>) in which he hath paſt himſelf over to his creature.</p>
+            <p>By this act and deed he makes himſelf over in a double relation. As a
+<list>
+                  <item>
+                     <hi>Father, to</hi> them.</item>
+                  <item>
+                     <hi>God in Covenant, with</hi> them.</item>
+               </list>
+            </p>
+            <p>Firſt, as a <hi>Father.</hi> It is that which he ſpeaks of himſelf. 2 <hi>Cor.</hi> 6. <hi>ult.—I will be a Father to you:</hi>—Here (as to behold both) let your eye equally fall (but with a diſtinct look) upon <hi>the perſon (I)</hi> and <hi>the relation; (Father:)</hi> for this latter onely ſerves as a reſpective accident under which the firſt is referr'd and made over to the creature juſtified. Which is
+<pb n="10" facs="tcp:159908:9"/> done by (deed of gift) freely giving himſelf over to them.—<hi>I will be—to you:</hi>—thus this perſon of glory becomes a <hi>Father.</hi>
+            </p>
+            <p>But what is it for him to be thus related? or what, to give over himſelf as a <hi>Father? A</hi> ſublime <hi>miſtery</hi> (ſwelling with ſweetneſſe) thus opened. <hi>The reference of himſelf to them according to a mutuall, objective, coexiſtent, dependance.</hi>
+            </p>
+            <p>Here vulgar thoughts, of <hi>Dependancie</hi> are apt (but ſuffer them not) to grow over rank: This perſons is only <hi>paternall,</hi> ſuch as is an inſeparable conjunction of a Father and his child in their relative <hi>Exiſtencies,</hi> in their <hi>Diffinitions. The one</hi> (which of them ſoever it be) cannot be ſo, nor ſo call'd; but by this dependance. Ask: what is a Father? how comes he to be ſo? Do we not anſwer? One that hath a child: and becauſe he hath a child. Tranſpoſe the termes: what is a child? how comes it to be ſo? One that hath, and becauſe it hath, a Father. Thus he <hi>depends,</hi> thus <hi>mutually.</hi>
+            </p>
+            <p>
+               <hi>Objectively,</hi> as directly pointing each to other: (the Fa<g ref="char:EOLhyphen"/>ther to his child, and the contrary) in a diſtinction from all things ſubjectively depending on their ſubſtance in which they inhere. Contemporarie are they too: neither thus exiſting before or after each other, but both together. The Father, indeed, as a man, the agent begetting is (ſaid to be) the cauſe, and ſo is in Nature before the begotten: but a father the one is not, till the other is a child; and ſo he depends <hi>coexiſtently.</hi>
+            </p>
+            <p>Of <hi>this perſon</hi> and <hi>a beleever,</hi> as <hi>thus</hi> allied according to adoption, is all this affirmed. Inſeparately are they for ever conjoyn'd: yea ſo, as abſtract the one from the other, and neither can be, what thus they are; neither can be thus call'd. (paſſe by our Saviours ſonſhip of eternall genera<g ref="char:EOLhyphen"/>tion) Come to a beleever's by free adoption; and he is their
+<pb n="11" facs="tcp:159908:9"/> Father; he comes to be ſo, as they are his children adopt<g ref="char:EOLhyphen"/>ed; and becauſe they are ſo. His paternity, their ſonſhip, have for their baſis <hi>a mutuall dependance.</hi> Between theſe (to hinder the object of each others eye) flies no gloomy cloud: but both, like the eye of day darting its beams upon the centure of the Creation, are ſtill looking upon, ſtill point<g ref="char:EOLhyphen"/>ing, each, to other. One thought of either excludes, dark<g ref="char:EOLhyphen"/>ens, neither; but takes in both. For, touching a beleevers ſonſhip, what mind can paſſe a thought, and in the ſame not include this perſons paternity? They are children: as he is, &amp; becauſe he is, their Father. And, which is more, both relations in priority claim an equall priviledge. His pater<g ref="char:EOLhyphen"/>nity (to them) precedes not their ſonſhip, neither is firſt, or laſt, they <hi>co-exist.</hi> He is not to them a Father, till they are children, by adoption, to him.</p>
+            <p>Secondly, as, <hi>a God in Covenant.</hi> Of this way too of giving himſelf; himſelf ſpeaks: <hi>Hebr.</hi> 8.10.—<hi>I will be their God:</hi>—one article (and that on Gods part, are theſe words) of a Contract, a Covenant everlaſting, new, between God and man. For matter, it is himſelf, <hi>God:</hi> for manner, <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>deed of gift,—I will be theirs:</hi> In the firſt unbound your thoughts, and in ſome particulars incloſe not him, who hath (in one word, <hi>God:</hi>) given over himſelf without limits. He will be their <hi>God:</hi> not in ſome one attribute onely; or in more; but he in <hi>All</hi> gives himſelf to be a Saints: <hi>their God.</hi> Theirs what his own, that is, <hi>God.</hi>
+            </p>
+            <p>The certainty of this by entring Covenant he hath put out of all queſtion: freely binding himſelf over to perform,—<hi>I will be,</hi> &amp;c.—<hi>I</hi> (a particle of equall worth, and value with, <hi>God.</hi>) I, who am very God, will ſee that I be your God. Yours, as bound to you: yours, as (on my one part) the ſubſtance of the Covenant.</p>
+            <pb n="12" facs="tcp:159908:10"/>
+            <p>But ſecondly, in himſelf too hath <hi>God the Son abundance,</hi> yea, <hi>all things.</hi> He is a plenty without an end, his meaſure (if it may be ſo call'd) is <hi>fulneſſe;</hi> fulneſſe in the largeſt ex<g ref="char:EOLhyphen"/>tent, <hi>all:</hi> and for ever inſeparable from his perſon, it <hi>Dwelt in him.</hi> Col. 1.19.—<hi>It pleaſed the Father that in him ſhould all fulneſſe dwell.</hi>
+            </p>
+            <p>Now this Son to every beleever is the Fathers gift, <hi>Iſa.</hi> 9.6.—<hi>To us a Son is given</hi>—as <hi>their abundance.</hi> Joh. 1.16.—<hi>Of his fulneſſe have we</hi> (Saints by calling) <hi>all received,</hi>—as firm, then, as undeniable is the beleevers title (of pro<g ref="char:EOLhyphen"/>priety and poſſeſſion) to <hi>Him</hi> and <hi>his fulneſſe,</hi> as to God the Father. In the world there's nothing (either fully, truly, or clearly) can be more their own.</p>
+            <p>He is given to them, clearly, without condition, truly, without deceit, fully, without diviſion: his <hi>Perſon,</hi> his <hi>Bene<g ref="char:EOLhyphen"/>fits</hi> are both theirs. He (this way) is <hi>all theirs,</hi> and for them.</p>
+            <p>His <hi>Perſon</hi> now in heaven is theirs, as there for them. The Father gives him to them to ſtand in their ſtead: repreſent<g ref="char:EOLhyphen"/>ing them continually ſpotleſſe and unblameable in his ſight. <hi>Thou art all fair my Love, there is no ſpot in thee.</hi> Cant. 4.7.</p>
+            <p>All theirs are his <hi>Benefits</hi> too. The Father never gives one alone, but both together. Let looſe your thoughts among the fruitfull benefits of his perſon, and try, if there can be found one, upon which the beleevers propriety is not deep<g ref="char:EOLhyphen"/>ly ingraven in theſe characters, THEIRS. Free juſtifica<g ref="char:EOLhyphen"/>tion from ſin's damning guilt, ſweet reconciliation to God his Father, compleat adoption to glory and liberty; is <hi>their</hi> juſtification, <hi>their</hi> reconciliation, <hi>their</hi> adoption, as Jeſus Chriſt given to them.</p>
+            <p>Now Chriſt, as thus theirs, is, ſo in foure reſpects.
+<pb n="13" facs="tcp:159908:10"/> As their
+<list>
+                  <item>
+                     <hi>Husband.</hi>
+                  </item>
+                  <item>
+                     <hi>Brether.</hi>
+                  </item>
+                  <item>
+                     <hi>Friend.</hi>
+                  </item>
+                  <item>
+                     <hi>Advocate.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, as <hi>their Husband. Revel.</hi> 21.9.—<hi>I will ſhew you, the Bride, the Lambs wife:</hi> that is, the Church, beleevers ſtand<g ref="char:EOLhyphen"/>ing to Jeſus Chriſt, related, as to their Husband. For, <hi>Jer.</hi> 3.14.—<hi>I</hi> (ſaith he) <hi>am married to you:</hi>—to which adde this conjugall effect, <hi>The wife hath not power of her own body, but her husband; and likewiſe the husband hath not power over his own body, but the wife.</hi> 1 <hi>Cor.</hi> 7.4. They who before, wore no yoke but their own, retaining a prerogative in ſelf propri<g ref="char:EOLhyphen"/>etie; have mutually exchang'd, and ſolely become each others after the celebration of nuptiall rites. <hi>This,</hi> Eph. 5.32. <hi>is</hi> (according to the fleſh) <hi>a great miſtery; but I ſpeak concerning Chriſt and the Saints:</hi> to whom (being married, and there<g ref="char:EOLhyphen"/>by fully given over to them) he hath not that power now remaining in him as to deny himſelf, or his ſanctifying, ſaving uſes. He is married to them, and ſo he is <hi>theirs. My beloved is mine,</hi> &amp;c.—<hi>Cant.</hi> 2.16.</p>
+            <p>Secondly, as <hi>their Brother.</hi> Joh. 20.17.—<hi>Go</hi> (ſaith he to <hi>Mary</hi>) <hi>to my brethren,</hi> (the diſciples, perſonating all belee<g ref="char:EOLhyphen"/>vers) <hi>and ſay unto them, I</hi> (that is Jeſus <hi>their Brother</hi>) <hi>aſcend—Fraternity</hi> (for its kind) is the neereſt, native, perſonall relation: giving an actuall propriety to both, in each other; a joynt one (while they live) in their Fathers poſ<g ref="char:EOLhyphen"/>ſeſſions; and a totall ſometimes to the ſurvivour in his de<g ref="char:EOLhyphen"/>ceaſed brothers. All which is freely given to a beleever with Jeſus their Brother. His next of kin: are ſuch; for (with their difference, 1 <hi>Joh.</hi> 3.9.) they <hi>are born of God</hi> as well as he. Whereby he in their perſons, and they in his, have, at once and for ever, this neereſt, this native, pro<g ref="char:EOLhyphen"/>priety.</p>
+            <pb n="14" facs="tcp:159908:11"/>
+            <p>Moreover, this their Brother <hi>was dead, but is alive: Rev.</hi> 1.18. By vertue of whoſe brother-hood, as he now lives for ever; beleevers have a ſhare with him as joynt-heirs in (life and immortality) God their Father's eternall poſſeſ<g ref="char:EOLhyphen"/>ſion. <hi>Rom.</hi> 8.17. <hi>If children, then heirs, heirs of God, and coheirs with Chriſt, &amp;c.</hi>—</p>
+            <p>And ſtill by vertue of the ſame relation, (as he was once dead) beleevers retain a full intereſt in all his <hi>benefits.</hi> The firſt perſon of glory (when upon them he beſtowed this Je<g ref="char:EOLhyphen"/>ſus) dealing with them as a loving Father after the fune<g ref="char:EOLhyphen"/>rall ſolemnity of his eldeſt Son: gave <hi>ALL</hi> to them (as the next of kinne) that was in the poſſeſſion of their elder Brother. <hi>His obedience, his ſatisfaction, his righ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eouſneſſe,</hi> was tranſacted upon them, and now is <hi>theirs.</hi> Thus he that was dead, and is alive; is <hi>theirs,</hi> as Jeſus <hi>their Brother.</hi> This partly is that giving of Chriſt to a Soul, as Chriſt <hi>dying,</hi> and as <hi>riſen</hi> again.</p>
+            <p>Thirdly, as, <hi>their Friend.</hi> Equality, which other relati<g ref="char:EOLhyphen"/>ons hath not, appears in this. A <hi>Husband,</hi> a <hi>Brother,</hi> are titles of dignity, therefore terms of diſtance: but <hi>Friends are equall.</hi> And he into whoſe thoughts it never entred as robbery to be equall with God: <hi>Phil.</hi> 2.6. thinks it no diſ<g ref="char:EOLhyphen"/>grace thus to be equall with a Saint. <hi>Ye are my friends,</hi> &amp;c.—<hi>Joh.</hi> 15.14.</p>
+            <p>If relations infold any rights reciprocall, <hi>friendſhip</hi> then may hold parallel with moſt. For men therby have in each other a true, conſtant intereſt: ſuch as, the ſumme whereof the ancient Heathen have long ſince caſt up; and, in their grave Orations, their beſt paſſionate Songs, left it upon re<g ref="char:EOLhyphen"/>cord; <hi>That true friends have divided bodies, for each other, upon occaſion, readie to die: and but one heart, one mind, one poſſeſſion, common to both.</hi>
+            </p>
+            <pb n="15" facs="tcp:159908:11"/>
+            <p>In after-times, <hi>The multitude of them that beleeved were of me heart, and of one ſoul, neither any of them ſaid that any thing of that which he had was his own, but they had all things common.</hi> Act. 4.32. And ſome there hath been (yet but few ſuch) who chearfully for each other have adventured to walk through the worſt of dangers: among whom, matchleſſe in all is this couple; <hi>a</hi> true <hi>beleever,</hi> and <hi>his friend Jeſus.</hi>
+            </p>
+            <p>To ſpeak onely on <hi>his</hi> part: <hi>Joh.</hi> 10.17.—<hi>I lay down my life,</hi> &amp;c.—<hi>v.</hi> 18. <hi>No man taketh it from me, but I lay it down of my ſelf;</hi>—1 <hi>Pet.</hi> 2.24.—<hi>His own ſelf bare our ſins in his own body on the tree,</hi>—1 <hi>Cor.</hi> 15.3.—<hi>Chriſt died for our ſins,—Rom.</hi> 4.25.—<hi>and was raiſed again for our juſtification. And,</hi> Joh. 17.19. <hi>for their ſakes I ſanctifie my ſelf that</hi> (as the Margin reads it) <hi>they alſo might be truly ſanctified.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">The antient Greeks ther<g ref="char:EOLhyphen"/>fore calld him <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſuch another. <hi>Plut.</hi>
+               </note> 
+               <hi>A Friend is his friend's, as he is another own ſelf.</hi> In all theſe, this Friend Jeſus is <hi>theirs,</hi> as thus to them. Obſerve the bur<g ref="char:EOLhyphen"/>then of the laſt quoted Scriptures, in every one it is, <hi>Chriſt for them. He,</hi> with <hi>All that he did,</hi> in, <hi>dying, riſing, juſtifying, ſanctifying,</hi> was in their ſteads, and for them. As their per<g ref="char:EOLhyphen"/>ſons then, as their performances this <hi>friend,</hi> and <hi>his,</hi> is <hi>theirs.</hi>
+            </p>
+            <p>A peculiar intereſt too (to compleat their community in him) they have in his tender heart and ſoul. <hi>Thou haſt ra<g ref="char:EOLhyphen"/>viſhed</hi> (or taken away) <hi>my heart,</hi> &amp;c.—<hi>Cant.</hi> 4.9. Of this friend's eſpecially, it is true, the <hi>heart is not ſo much where it lives, as where it loves.</hi> By diſtinction of perſons Chriſt and a Saint are two: by union in affection he is <hi>theirs.</hi> This (as one branch) is that unity, which is the (beleevers band of comfort.</p>
+            <p>Fourthly, as, <hi>their Advocate.</hi> The expreſſion is politicall, a ſublime title of office, implying a Subject imploy'd (after this way) for another: and as thus ſpoken of Jeſus Chriſt we read it: 1 <hi>Joh.</hi> 2.1.—<hi>We have an Advocate with the Father,
+<pb n="16" facs="tcp:159908:12"/> Jeſus Chriſt,—who</hi> (as it is his office) <hi>makes interceſſion for us. Rom.</hi> 8.34. that is, continues the mournfull act of his ſa<g ref="char:EOLhyphen"/>crifice after this manner. The ſame body (which in belee<g ref="char:EOLhyphen"/>vers ſteads) with ſtrong cries and tears was upon the croſſe once offered; now virtually in the heavens with as ſtrong prayers he ſtill ſo offers up for them to the Father. So that in this act of oblation <hi>for them,</hi> his <hi>perſon</hi> is, as an <hi>Advocate, theirs.</hi>
+            </p>
+            <p>And now laſtly, <hi>God</hi> the <hi>Spirit</hi> is <hi>abundance,</hi> yea <hi>theirs,</hi> as the <hi>Father's gift,</hi> with Jeſus Chriſt, to them. In one breath you may read all three. <hi>Tit.</hi> 3.5.—<hi>And renuing of the holy Ghoſt, v.</hi> 6. <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as rela<g ref="char:EOLhyphen"/>ting to <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not to <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Which</hi> (holy Ghoſt) <hi>he</hi> (the Father, in a diſtin<g ref="char:EOLhyphen"/>ction from his Son, and Spirit) <hi>ſhe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n us abundantly by Jeſus Chriſt. Abundantly on us</hi> is here joyn'd with the Father's ef<g ref="char:EOLhyphen"/>fuſion of his <hi>Spirit:</hi> declaring thereby it's ſignification to be an <hi>abundance,</hi> and that <hi>theirs</hi> by the Father's gift.</p>
+            <p>To <hi>this Spirit</hi> alſo hath a beleever then as true a title as to the Father, and the Son. To them the promiſe—<hi>the Fa<g ref="char:EOLhyphen"/>ther—ſhall give you another Comforter, the Spirit of truth.</hi>—Joh. 14.16, 17. is fulfill'd. Upon them the Father hath poured him forth. They have him (actually in poſſeſſion, peculiar<g ref="char:EOLhyphen"/>ly in title) he is <hi>theirs.</hi>
+            </p>
+            <p>Now as the other two perſons had their diſtinct relati<g ref="char:EOLhyphen"/>ons in which they were made over, <hi>this</hi> hath his proper work in which he is <hi>theirs: viz. This Spirit is their onely light by which they ſee all things</hi> (neceſſary for them to ſee) <hi>of the Father and Jeſus Chriſt.</hi> God hath made <hi>ſence</hi> and <hi>reaſon</hi> lights (in their own ſphears) to this world of nature: but in the deep things of himſelf theſe are darkneſſe to a Saint. <hi>As it is written, eye hath not ſeen, nor ear heard, neither hath en<g ref="char:EOLhyphen"/>tred into the heart of man, the things which God hath prepared</hi>—1 Cor. 2.9. <hi>But</hi> (mark what follows) <hi>God hath revealed them
+<pb n="17" facs="tcp:159908:12"/> unto us by his Spirit, for he ſearcheth all things, yea the deep things of God,</hi> v. 10. And in <hi>v.</hi> 12. <hi>We have received the Spirit—which is of God, that we might know the things,</hi> &amp;c.—'Tis the proper work of <hi>this Spirit</hi> to ſound theſe depths, for from eternity he lived in the boſome of the Godhead, and was privie to all in God and Jeſus Chriſt.</p>
+            <p>'Tis <hi>his</hi> onely too, to make them known. As an inhabi<g ref="char:EOLhyphen"/>tant therefore (he is ſaid) to dwell in beleevers, 2 <hi>Tim.</hi> 1.14. Into whoſe minds, to whoſe ſouls he continually bringe them. Here ſhines the <hi>Saints light</hi> in a miſtery, they know theſe things (not theoretically, but feelingly) as <hi>this Spirit</hi> reveals them.</p>
+            <p>Thus (as well as I am able) little of much have I ſet before you; <hi>the relations</hi> of theſe perſons of glory, in which God freely makes himſelf over to his creature: and not all, but ſome: yet by theſe few imperfect lineaments the ſpi<g ref="char:EOLhyphen"/>rituall ſence of that Chriſtiano-Platonicall theſis (<hi>one was all,</hi> and <hi>all one</hi>) may be in ſome ſort conjectured. For this <hi>Trinity</hi> (indeed) is but <hi>One,</hi> and <hi>that</hi> one a beleevers <hi>ALL.</hi>
+            </p>
+            <p>This is the cloſe of the firſt Queſtion.</p>
+            <p>
+               <note place="margin" type="runSum">Queſt. 2.</note> 
+               <hi>What comfort hath a beleever more by having this ALL FREELY GIVEN him, than by injoying it any other way?</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">Anſ.</note> 
+               <hi>A great deal. In the injoyment it is unſpeakable, full of glory.</hi>
+            </p>
+            <p>Conſider this <hi>All</hi> but ſimply as a <hi>gift;</hi> ſo it was neither <hi>bought,</hi> nor <hi>borrowed.</hi> Deeds of <hi>Sale,</hi> and <hi>Loan</hi> have each their trouble: <hi>viz. Laerge expence, ſhort injoyment.</hi> And were this all made over by either of theſe, the creature muſt pay for it, and at laſt part with it. If the firſt (their Stock not amounting to the ten thouſandth part of the price) they muſt then either go without it, or be undone in the pur<g ref="char:EOLhyphen"/>chaſe.</p>
+            <p>Or if not ſo, ſhould God but lend <hi>Himſelf,</hi> his <hi>Son,</hi> his
+<pb n="18" facs="tcp:159908:13"/> 
+               <hi>Spirit;</hi> a time would come, when but juſtly he would look for his own again. Would not this then be as bad as the former? The Creature would be undone in the ſurrender.</p>
+            <p>But now the Father hath burthened them with neither of theſe. What they have, they have by gift. Herein then lies (that which is better felt then ſpoke) one peice of their comfort: <hi>viz. With a price they are not troubled; of a part<g ref="char:EOLhyphen"/>ing with they are not afraid.</hi> This <hi>all</hi> (though in reſpect of Chriſt (it is true) the Saints are bought with a price) coſts them nothing, and is <hi>theirs</hi> to eternity.</p>
+            <p>Conſider it again as a <hi>free gift.</hi> And here if you would rightly underſtand the Anſwer of the Queſtion, have re<g ref="char:EOLhyphen"/>courſe in every particular (as the ſound paſſeth by your ear) to the chearfull workings of your own ſoul. Are the Saints intitled to? are they poſſeſſed of, <hi>All freely? All</hi> then is theirs <hi>without reluctancie.</hi> Jer. 30.18. The Father the (pro<g ref="char:EOLhyphen"/>per giver) <hi>waits to be gracious.</hi> In his eye a chearfull giver is of great eſteeme: 2 <hi>Cor.</hi> 9.7. for he himſelf delights to give chearfully. All ſuch acts toward his own go not to, but from his heart.</p>
+            <p>
+               <hi>All</hi> is theirs <hi>without any motive externall.</hi> Among men, the glory of a gift's freeneſſe conſiſts in the voluntarineſſe of the ſpirit: we uſe not therefore to call that free to which a man is outwardly provok'd. Were God thus moved to give <hi>Himſelf, Son,</hi> and <hi>Spirit</hi> to a Saint, a <hi>gift</hi> it might be; but not <hi>free.</hi> That, therefore which he doth by deed of gift, comes from a principle within him (his love: <hi>Joh.</hi> 3.16.) that his gift might appear plainly to be free.</p>
+            <p>
+               <hi>All</hi> is theirs <hi>without Condition.</hi> The Father gives it not according to the Law, but the tenour of the Goſpel. He binds not his Creature, in the act of donation, to the per<g ref="char:EOLhyphen"/>formance of Articles for their intereſt in his gift: but be<g ref="char:EOLhyphen"/>ſtows
+<pb n="19" facs="tcp:159908:13"/> (where he pleaſeth) without theſe: Conditions (it is true) may perchance ſometimes ſtand with a <hi>gift,</hi> but they are alwaies limits to the <hi>freeneſſe</hi> of it: that then which is bounded cannot be free. This great gift therefore is <hi>un<g ref="char:EOLhyphen"/>conditionate.</hi>
+            </p>
+            <p>Thus I have done with the Doctrinall part.</p>
+            <p>
+               <note place="margin" type="runSum">
+                  <g ref="char:V">Ʋ</g>ſes.</note> Now to cloſe all, give me leave (my dear friends) to ſpeak thrice to you.</p>
+            <p>
+               <note place="margin" type="runSum">1.</note> Firſt, an <hi>Information.</hi> Are beleevers thus poſſeſſed of <hi>All things</hi> in the injoyment of Jeſus Chriſt? <hi>They are</hi> (then) <hi>the onely rich men.</hi> Rich <hi>abſolutely,</hi> rich <hi>incomparably,</hi> none ſo rich, nor truly ſo, as they. Hiſtories give us the name of one, who was (from ſome few earthly poſſeſſions) reported to be the richeſt of all the Romans: and had we not the Scriptures, we might ſuppoſe our dayes yeelds not this man his fellow. But as he among them, ſo (and far more) are all the Saints among the ſons and daughters of men.</p>
+            <p>Behold, <hi>Paul</hi> ſounds with a full blaſt in our ears—<hi>All is theirs.</hi> 1 Cor. 3.22. Can your thoughts of their wealth now chuſe but fill? yea, to their largeſt extenſion? mine cannot: this <hi>all</hi> (to me) repreſents more, than can be diſcovered by any relation. <hi>Solomon</hi> of old under the name of Wiſ<g ref="char:EOLhyphen"/>dom ſung thus of Jeſus Chriſt, <hi>With me are riches and honours.—Prov.</hi> 8.18. Beleevers under the relations of the Trinity to them, may ſing thus of themſelves, <hi>With us are riches and treaſures; we have durable incomparable riches: Jeſus Chriſt,</hi> his <hi>Father,</hi> and <hi>Spirit.</hi>
+            </p>
+            <p>And are theſe injoy'd by a deed of <hi>free-gift? No qualifica<g ref="char:EOLhyphen"/>tions</hi> (then) <hi>may pre-exiſt to make the creature either more worthy, or capeable of them.</hi> If the contrary ſhall ſtill perſwade, let me ask you, How then is it a gift? much-leſſe, how is it free?</p>
+            <pb n="20" facs="tcp:159908:14"/>
+            <p>Pardon me, if I cloſe this branch with it's vindication. I humbly conceive no liberty to licentiouſneſſe can be here grounded. Falſly it is pretended to fruſtrate performances, which God forbid. They indeed, have their excellent uſes, although not theſe. But obſerve where you will men of all ſorts, and who ſhall you ſee more devout? more conſtant in ſuch things, than they who humbly wait for, who dili<g ref="char:EOLhyphen"/>gently wait upon this <hi>free gift?</hi>
+            </p>
+            <p>If any there be, who, that grace may abound, take li<g ref="char:EOLhyphen"/>berty to ſin; an evill ſpirit (we ſay) hath deluded ſuch: and ſhall a reproach, for their ſakes, be rudely caſt, or lie upon the truth? Moreover, ignorance hath heretofore been a pregnant mother of ſcurrulous reproaches. For who more forward indeed, to load truth with ſuch, than they that feelingly underſtand it not. The Father of our Lord Jeſus grant, that this mother with her foule brood lodge not ſtill in the minds, and dwell between the lips of men.</p>
+            <p>Some of great worth for all other learning have been ſo ingenuouſly civill in their thoughts, in their ſpeeches of <hi>Plato's</hi> Ideahs, that in both they have born a moderate re<g ref="char:EOLhyphen"/>ſpect to them: becauſe (as they have often ſaid) they know not what they may mean in better underſtandings. Who lends me now a ſigh, to help in the lamentation of a great evill that is under the Sun? O! that mens words and thoughts were but thus civillis'd towards the things of God, the high things of God. O! that they were but convinc'd of this, that there may be a divine power de<g ref="char:EOLhyphen"/>monſtrating them in humble panting ſouls which they yet know not. How ſweetly ſhould we all live if this were ſo?</p>
+            <p>
+               <note place="margin" type="runSum">2.</note> A <hi>Conſolation.</hi> Is it a gift, and ſo not borrowed? If any of you have receiv'd it, you may ſit down with boſomes fill'd with this comfort: <hi>What thou haſt is thy own for ever.</hi> In thee
+<pb n="21" facs="tcp:159908:14"/> then, (whoſoever thou art) and in all ſuch, groundleſſe are all ſad thoughts of diſſertion: yea, for ever groundleſſe are all ſuch fears. Weakneſſe may ſometimes cloud thy ſoul; not really rob it of it's own. This gift eſpeciall is ſtamp'd with this <hi>impreſſo: The good part which ſhall never be taken from thee.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">3.</note> An <hi>Exhortation.</hi> Is this gift <hi>all things? Expect, look for, no inward fulneſſe without this gift.</hi> Fire (ſome ſay) came firſt from heaven, and therefore reſtleſly works it ſelf through combuſtibles, endeavouring to aſpire thither again. Every rationall ſoul is Heavens free born flame, raked up here in embers of fleſh, reſtleſſe and unſatisfied in all its courſes. 'Tis his labour loſt who endeavours the contrary with with things inferiour to it. It can never be, till inwardly united with this <hi>Father,</hi> this <hi>Son,</hi> this <hi>Spirit.</hi>
+            </p>
+            <p>But with any of you, is it not yet ſo? Wait diligently for them till they be given. Or is it already ſo? Wait ſtill continually on them, humbly increaſe your acquaintance with them. They are <hi>all fulneſſe,</hi> they will be ſo to you.</p>
+            <p>Wait diligently upon this <hi>Father.</hi> He'l give you (with a daily increaſe) his <hi>Son,</hi> his <hi>Spirit.</hi>
+            </p>
+            <p>Wait upon this <hi>Son,</hi> this <hi>Jeſus.</hi> It is he that can reveal all things of the Father. If you are acquainted with him, ask him of the Father, in the diſcovery of him (if you ob<g ref="char:EOLhyphen"/>ſerve) you ſhall find this Jeſus to be to you a <hi>Husband,</hi> a <hi>Brother,</hi> a <hi>Friend,</hi> a <hi>Counſellour.</hi>
+            </p>
+            <p>Wait upon this <hi>Spirit</hi> too. Learn every day more and more the knowledge of him. It is he that can, that muſt bring you acquainted with Jeſus Chriſt. If you already know him, why do you not ask him of your Saviour? In this inquiry he would be in you a glorious <hi>light.</hi> He
+<pb n="22" facs="tcp:159908:15"/> would ſhew you your Saviour even as he is.</p>
+            <p>But do any of you not know him? Sure I am, you have all heard of him: Search the Scriptures, for they ſpeak (of all <hi>three</hi>) and of this <hi>Spirit,</hi> as they do of your Saviour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
